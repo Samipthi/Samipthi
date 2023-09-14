@@ -2,14 +2,21 @@
 <h1 align="center">Hello 👋, I'm Samipthi Nayak✨</h1>
 <h3 align="center">Embracing creativity with an artistic soul✨.</h3>
 
-
-
-- 👩🏻‍💻 I’m a Computer Science student.
-- 🤩 Things I am good at **Front-End Development and Graphical Design**
-- 🔭 My special interests in **Space Science and Gadgets**
-- 🚀 I find joy in acquiring new knowledge and delving into technical realms
-
-
+<center>
+<img src="1b7bc6a37dae4e19a9377dae9e9cfb03.jpeg">
+</center>
+  
+<h3>
+  
+ 👩🏻‍💻 I’m a Computer Science student.
+  
+ 🤩 Things I am good at **Front-End Development and Graphical Design**
+  
+ 🔭 My special interests in **Space Science and Gadgets**
+  
+ 🚀 I find joy in acquiring new knowledge and delving into technical realms
+</h3>
+<hr>
 <p align="left">
 </p>
 
