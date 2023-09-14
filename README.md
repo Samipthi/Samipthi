@@ -9,7 +9,7 @@
 - 🔭 My special interests in **Space Science and Gadgets**
 - 🚀 I find joy in acquiring new knowledge and delving into technical realms
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
