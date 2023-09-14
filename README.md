@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Samipthi Nayak✨</h1>
 <h3 align="center">Embracing creativity with an artistic soul✨.</h3>
 
-<iframe src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">via GIPHY</a></p>
+
 
 - 👩🏻‍💻 I’m a Computer Science student.
 - 🤩 Things I am good at **Front-End Development and Graphical Design**
