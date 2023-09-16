@@ -1,10 +1,10 @@
 
-<h1 align="center">Hello 👋, I'm Samipthi Nayak✨</h1>
-<h3 align="center">Embracing creativity with an artistic soul✨.</h3>
+<h1>Hello, I'm <i>Samipthi Nayak</i>!💫</h1>
+<h3>Embracing creativity with an artistic soul🚀.</h3>
 
-<center>
+
 <img src="1b7bc6a37dae4e19a9377dae9e9cfb03.jpeg">
-</center>
+
   
 <h3>
   
