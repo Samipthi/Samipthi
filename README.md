@@ -12,7 +12,7 @@
   
  🤩 Things I am good at **Front-End Development and Graphical Design**
   
- 🔭 My special interests in **Space Science and Gadgets**
+ 🔭 My special interests in **Space Science**
   
  🚀 I find joy in acquiring new knowledge and delving into technical realms
 </h3>
